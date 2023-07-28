@@ -1,2 +1,3 @@
-# Vedio-Confrencing
-This is my 2nd project of bharatintern as full stack web developer about vedio confrencing website.
+# BharatIntern-Task3
+This my Bharat Intern Third task.
+It's based on video confrencing.
